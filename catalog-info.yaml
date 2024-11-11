@@ -4,6 +4,7 @@ metadata:
   name: PetshopRestAPI
   annotations:
     github.com/project-slug: Christensenkim/PetshopRestAPI
+    backstage.io/techdocs-ref: url:https://github.com/Christensenkim/PetshopRestAPI
 spec:
   type: other
   lifecycle: unknown
